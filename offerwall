@@ -23,7 +23,7 @@
  
  "----------------------------------------------":"--------------------------------------------------------------", 
  
-  "no_of_offers":"2",
+  "no_of_offers":"6",
   
   
   "offer_link_1":"https://pin-up.ua/?",
@@ -37,7 +37,45 @@
   
   
  
-  "offer_link_2":"https://pin-up.ua/?",
+  "offer_link_3":"https://pin-up.ua/?",
+  "offer_image_3":"https://firebasestorage.googleapis.com/v0/b/ecommerce-2efbd.appspot.com/o/products%2Felectro.png?alt=media&token=bc57982a-78e4-42e9-850f-45087adcc0a6",
+  "offer_rating_3":"9",
+  "offer_timedeprocess_3":"24 hours",
+  "offer_description_3":"the best casino.com",
+  "offer_deposit_3":"10$",
+  "offer_withdrawal_3":"10 000$",
+  "offer_sistemadepa_3":"20 +",
+  
+   "offer_link_4":"https://pin-up.ua/?",
+  "offer_image_4":"https://firebasestorage.googleapis.com/v0/b/ecommerce-2efbd.appspot.com/o/products%2Felectro.png?alt=media&token=bc57982a-78e4-42e9-850f-45087adcc0a6",
+  "offer_rating_4":"9",
+  "offer_timedeprocess_4":"24 hours",
+  "offer_description_4":"the best casino.com",
+  "offer_deposit_4":"10$",
+  "offer_withdrawal_4":"10 000$",
+  "offer_sistemadepa_4":"20 +",
+  
+  
+   "offer_link_5":"https://pin-up.ua/?",
+  "offer_image_5":"https://firebasestorage.googleapis.com/v0/b/ecommerce-2efbd.appspot.com/o/products%2Felectro.png?alt=media&token=bc57982a-78e4-42e9-850f-45087adcc0a6",
+  "offer_rating_5":"9",
+  "offer_timedeprocess_5":"24 hours",
+  "offer_description_5":"the best casino.com",
+  "offer_deposit_5":"10$",
+  "offer_withdrawal_5":"10 000$",
+  "offer_sistemadepa_5":"20 +",
+  
+   "offer_link_6":"https://pin-up.ua/?",
+  "offer_image_6":"https://firebasestorage.googleapis.com/v0/b/ecommerce-2efbd.appspot.com/o/products%2Felectro.png?alt=media&token=bc57982a-78e4-42e9-850f-45087adcc0a6",
+  "offer_rating_6":"9",
+  "offer_timedeprocess_6":"24 hours",
+  "offer_description_6":"the best casino.com",
+  "offer_deposit_6":"10$",
+  "offer_withdrawal_6":"10 000$",
+  "offer_sistemadepa_6":"20 +",
+  
+  
+   "offer_link_2":"https://pin-up.ua/?",
   "offer_image_2":"https://firebasestorage.googleapis.com/v0/b/ecommerce-2efbd.appspot.com/o/products%2Felectro.png?alt=media&token=bc57982a-78e4-42e9-850f-45087adcc0a6",
   "offer_rating_2":"9",
   "offer_timedeprocess_2":"24 hours",
